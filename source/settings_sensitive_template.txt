@@ -1,0 +1,7 @@
+In folder 'source' add document named 'settings_sensitive.py' and structure it in a this way: 
+
+EMAIL_USE_TLS = True
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = 'knowledgeaid2@gmail.com'
+EMAIL_HOST_PASSWORD = 'Ratnam@502'
+EMAIL_PORT = 587
